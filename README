@@ -1,1 +1,18 @@
-#
+# ABEL TODO LIST
+
+## Installation
+
+- Clone the repository and move it into htdocs folder
+
+```bash
+ git clone https://github.com/Warano02/abel-todo-app.git
+ mv abel-todo-app /c/xampp/htdoc
+
+```
+
+- Start your apache server
+- Create a database with "todolist" as name. NB: make sure you dont have a password
+- Import the todolist schema and data into your database
+- View the project in http://127.0.0.1/abel-todo-app
+
+## GOOD LUCK BRO !
