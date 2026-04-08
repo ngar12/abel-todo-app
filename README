@@ -5,7 +5,7 @@
 - Clone the repository and move it into htdocs folder
 
 ```bash
- git clone https://github.com/Warano02/abel-todo-app.git
+ git clone https://github.com/ngar12/abel-todo-app.git
  mv abel-todo-app /c/xampp/htdoc
 
 ```
